@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Excel_Grid/static/css/main.30dca37f.css",
+    "main.js": "/Excel_Grid/static/js/main.bf214cab.js",
+    "index.html": "/Excel_Grid/index.html",
+    "main.30dca37f.css.map": "/Excel_Grid/static/css/main.30dca37f.css.map",
+    "main.bf214cab.js.map": "/Excel_Grid/static/js/main.bf214cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30dca37f.css",
+    "static/js/main.bf214cab.js"
+  ]
+}
